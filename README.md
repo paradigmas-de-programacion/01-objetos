@@ -1,4 +1,4 @@
-# Guía 01: Objetos
+# Guía de Ejercicios: Objetos
 
 Resolver los siguientes ejercicios utilizando el lenguaje de programación Java, con el paradigma imperativo.
 Encontrarás una estructura de proyecto conveniente para ese objetivo.
