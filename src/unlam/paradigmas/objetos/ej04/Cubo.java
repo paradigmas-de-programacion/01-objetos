@@ -2,6 +2,8 @@ package unlam.paradigmas.objetos.ej04;
 
 public class Cubo {
 
+	// completar
+	
     /**
      * pre : longitudLado es un valor mayor a 0.
      * post: inicializa el cubo a partir de la longitud de lado dada

@@ -2,6 +2,8 @@ package unlam.paradigmas.objetos.ej05;
 
 public class TarjetaBaja {
 
+	// completar
+	
 	/**
 	 * post: saldo de la Tarjeta en saldoInicial.
 	 */

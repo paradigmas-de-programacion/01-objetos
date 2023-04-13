@@ -18,7 +18,7 @@ Agregar a la clase Nota el método:
  */
 public void recuperar(int nuevoValor) { }
 ```
-Realizar todas las pruebas que considere convenientes.
+Realizar todas las pruebas que considere convenientes. Se pueden agregar métodos privados.
 
 ## Ejercicio 02
 Implementar la clase Punto. Un Punto en el plano posee coordenada X y coordenada Y. Proporcionar métodos para:
@@ -52,7 +52,7 @@ public double distanciaAlOrigen() { }
 public double distanciaAotroPunto(Punto otro) { }
 ```
 
-Realizar todas las pruebas que considere convenientes.
+Realizar todas las pruebas que considere convenientes. Se pueden agregar métodos privados.
 
 ## Ejercicio 03
 
@@ -62,19 +62,19 @@ Implementar una clase que modele un círculo, del que se desea manipular (obtene
 - perímetro
 - área
 
-Realizar todas las pruebas que considere convenientes.
+Realizar todas las pruebas que considere convenientes. Se pueden agregar métodos privados.
 
 ## Ejercicio 04
 
 Implementar la clase Cubo a partir de la interfaz proporcionada.
 
-Realizar todas las pruebas que considere convenientes.
+Realizar todas las pruebas que considere convenientes. Se pueden agregar métodos privados.
 
 ## Ejercicio 05
 
 Implementar la clase TarjetaBaja a partir de la interfaz proporcionada.
 
-Realizar todas las pruebas que considere convenientes.
+Realizar todas las pruebas que considere convenientes. Se pueden agregar métodos privados.
 
 ## Ejercicio 06
 
@@ -95,4 +95,4 @@ class Cerradura {
 }
 ```
 
-Realizar todas las pruebas que considere convenientes.
+Realizar todas las pruebas que considere convenientes. Se pueden agregar métodos privados.

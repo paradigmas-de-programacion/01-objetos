@@ -1,6 +1,9 @@
 package unlam.paradigmas.objetos.ej01;
 
 public class Nota {
+	
+	// completar
+	
     /**
      * pre : valorInicial está comprendido entre 0 y 10.
      * post: inicializa la Nota con el valor indicado.
